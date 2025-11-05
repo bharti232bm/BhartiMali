@@ -1,3 +1,3 @@
 # BhartiMali
-This is my first git repository
+This is my first Git Repository.
 Author - Bharti Mali
